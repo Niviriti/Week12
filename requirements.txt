@@ -1,7 +1,6 @@
 pandas 
 streamlit
 plotly
-sys
 os
 datetime
 
